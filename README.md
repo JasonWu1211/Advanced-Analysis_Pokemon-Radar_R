@@ -2,7 +2,7 @@
 
 ### Scripts
 
-* Exploratory Analysis * Data Cleaning
+* Exploratory Analysis & Data Cleaning
 * Principal component analysis (PCA)
 * Linear discriminant analysis (LDA)
 * Mutivariate Regression Model Training & validation
